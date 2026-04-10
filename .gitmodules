@@ -1,3 +1,4 @@
 [submodule "password-generator"]
 	path = password-generator
 	url = https://github.com/HORKimhab/password-generator
+	branch = main
