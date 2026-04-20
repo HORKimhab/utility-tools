@@ -9,6 +9,8 @@ The goal of this repository is to keep simple, practical tools in one place with
 At the moment, the repository includes:
 
 - `password-generator` - a local password generator built with plain HTML, CSS, and JavaScript
+<!-- Pull latest main in the submodule -->
+- git submodule update --remote --merge password-generator
 
 ## Repository Structure
 
