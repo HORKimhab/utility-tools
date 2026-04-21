@@ -36,3 +36,12 @@ Each tool is self-contained inside its own folder. Open the relevant folder and 
 ## Notes
 
 This README describes the repository as a whole. Individual tools can have their own README files later if they need separate setup or documentation.
+
+
+## TODO
+
+- [ ] Term and privacy of password generaator 
+- [ ] Notify user "Add your random password more after generate password" 
+- [ ] Short url 
+- [ ] Generate hacker names 
+
