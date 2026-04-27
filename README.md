@@ -43,5 +43,7 @@ This README describes the repository as a whole. Individual tools can have their
 - [ ] Term and privacy of password generaator 
 - [ ] Notify user "Add your random password more after generate password" 
 - [ ] Short url 
-- [ ] Generate hacker names 
+- [ ] Generate hacker names
+- [ ] Text to pdf (Support Khmer font) 
+
 
